@@ -8,6 +8,10 @@ For example, at the photon energy of 500 eV and incidence angle of 90 degress (a
 
 ![Fig2](https://github.com/user-attachments/assets/15d23aa1-8d72-4f73-a392-270e3da334d0)
 
+In the next step by rotating the sample along the y-axis (i.e. taking measurements by tilting the sample) we can obtain these bands along different k-path corresponding to different tilt values. Here as an example we rotate the sample by introducing tilt angles from -10 to 10 degress in steps of 0.1 degress:
+
+![tilt_video](https://github.com/user-attachments/assets/d6c9cd29-b6e3-41f3-9ab1-581d974c0756)
+
 
 ![tilt_video-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/06ef0eed-afd8-4d7c-b58c-a8c21dd8455e)
 
