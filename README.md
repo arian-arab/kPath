@@ -12,9 +12,10 @@ In the next step by rotating the sample along the y-axis (i.e. taking measuremen
 
 ![tilt_video](https://github.com/user-attachments/assets/d6c9cd29-b6e3-41f3-9ab1-581d974c0756)
 
+All these 22 bands for each of the tils can be plotted in a 3-dimensional plot to better visualize the 22 bands along different k-paths:
 
-![tilt_video-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/06ef0eed-afd8-4d7c-b58c-a8c21dd8455e)
+![Fig1](https://github.com/user-attachments/assets/32feb07d-6d82-47a0-beb2-46b21a32f255)
 
-![Figure_1](https://github.com/user-attachments/assets/246cae76-b6ed-4e3e-a129-4fffa28a02f8)
+The tilt in the above corresnpods to the k_y component. As a result by sclicing planes along the k_x-k_y direction we can obtain isoeneergetic surfaces hence resolve the ARPES image along the x and y components of the reciprocal space:
 
-![kxky_video](https://github.com/user-attachments/assets/a8e19839-5d35-4088-9a73-d084a0374d82)
+![isoenergy](https://github.com/user-attachments/assets/9e645fdb-af88-4c05-b536-dc56a92b022a)
