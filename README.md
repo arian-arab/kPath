@@ -27,3 +27,8 @@ The tilt mentioned above corresponds to the y component. As a result, by slicing
 <div align="center">
 <img src=https://github.com/user-attachments/assets/c479c9f5-6ae7-4177-8a90-6196c0bfdde9>
 </div>
+
+<div align="center">
+<img src=https://github.com/user-attachments/assets/c5dc02df-f15f-46e1-88b3-6613a44f95a5>
+</div>
+
