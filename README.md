@@ -25,5 +25,5 @@ All 22 bands for each tilt angle can be visualized in a 3D plot, providing a cle
 The tilt mentioned above corresponds to the y component. As a result, by slicing planes along the x-y direction, we can obtain isoenergetic surfaces, allowing us to resolve the ARPES image along the x and y components of reciprocal space:
 
 <div align="center">
-<img src=https://github.com/user-attachments/assets/9e645fdb-af88-4c05-b536-dc56a92b022a>
+<img src=https://github.com/user-attachments/assets/c479c9f5-6ae7-4177-8a90-6196c0bfdde9>
 </div>
