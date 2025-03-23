@@ -1,10 +1,10 @@
 # kPath (Software to Simulate Angle-Resolved Photoelectron Spectroscopy Experiments-ARPES)
 
-The Python code and the MATLAB GUI in this package seperately simulates ARPES measurements using Density Functional Theory (DFT) calculations.
+This package includes Python code and a MATLAB GUI that independently simulate ARPES measurements using Density Functional Theory (DFT) calculations.
 
-As an example, DFT calculations for the material TaAs is provided. The reciprocal lattice units are given and the DFT calculations are provided in a NumPy array of size (51*51*51*22) wherein the 51 dimensions are the k_x, k_y, and k_z in the reciprocal space and 22 are the number of bands, i.e., at each point in the reciprocal space; energies from 22 bands are calculated. As a result in an ARPES experiment, using the experimaental parameters and geometry (photon energy, incidence angle, and the orientations of the sample), a one-dimensional path in the reciprocal space (k-path) can be constructed and the energies for each of the 22 bands along the k-path can be obtained.
+As an example, DFT calculations for the material TaAs are provided. The reciprocal lattice units are defined, and the DFT results are stored in a NumPy array of size (51×51×51×22). Here, the three 51-dimensional components represent the x, y, and z components in the reciprocal space while the 22 corresponds to the number of bands, meaning that at each point in reciprocal space, the energies of 22 bands are computed.
 
-For example, at the photon energy of 500 eV and incidence angle of 90 degress (assuming no contribution to the k_x component of the electron energies due to photon momemntum) with an experimental geometry of 0 tilt, 0 phi, and 0 theta degrees, 22 line plots along the k-path can be obtianed which are plotted here:
+In an ARPES experiment, using experimental parameters and geometry (such as photon energy, incidence angle, and sample orientation), a one-dimensional path in reciprocal space (k-path) can be defined. The corresponding energies for each of the 22 bands along this k-path can then be extracted. For instance, at a photon energy of 500 eV and an incidence angle of 90 degrees (assuming no contribution to the x component of electron energies from photon momentum), with an experimental setup of 0° tilt, 0° phi, and 0° theta, 22 line plots along the k-path can be obtained and are shown here:
 
 ![Fig2](https://github.com/user-attachments/assets/15d23aa1-8d72-4f73-a392-270e3da334d0)
 
