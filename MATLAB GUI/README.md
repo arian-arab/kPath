@@ -6,3 +6,6 @@ Below is the GUI of the software, showing the initial parameters for the materia
 <img src="https://github.com/user-attachments/assets/f91eed9c-27fc-472e-9a1d-9ccb37dadb3a" alt="Alt Text" width="460" height="500">
 </div>
 
+By clicking on the "Plot" menu and selecting "Plot k-Path," you can generate the 22 bands:
+
+![Fig2](https://github.com/user-attachments/assets/8e58734e-1014-43dd-af2b-b19389414bfb)
