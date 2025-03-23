@@ -22,7 +22,7 @@ In the next step, by rotating the sample along the x-axis (i.e., tilting the sam
 <img src=https://github.com/user-attachments/assets/d6c9cd29-b6e3-41f3-9ab1-581d974c0756>
 </div>
 
-All 22 bands for each tilt angle can be visualized in a 3D plot, providing a clearer representation of how the bands evolve along different k-paths.
+All 22 bands for each tilt angle can be visualized in a 3D plot, providing a clearer representation of how the bands evolve along different k-paths:
 
 <div align="center">
 <img src=https://github.com/user-attachments/assets/c1514d49-d6a3-4ea1-9bfd-6f837bf7a057>
