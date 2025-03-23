@@ -38,3 +38,4 @@ The tilt mentioned above corresponds to the y component (by rotating the k-path 
 <img src=https://github.com/user-attachments/assets/c5dc02df-f15f-46e1-88b3-6613a44f95a5>
 </div>
 
+As a result, the above code can be used to simulate ARPES measurements for any given experimental parameters.
