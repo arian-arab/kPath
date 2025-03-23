@@ -10,6 +10,12 @@ In an ARPES experiment, using experimental parameters and geometry (such as phot
 <img src=https://github.com/user-attachments/assets/15d23aa1-8d72-4f73-a392-270e3da334d0>
 </div>
 
+The geometry and equations used to determine the k-path in reciprocal space are illustrated in the figure below:
+
+<div align="center">
+<img src=https://github.com/user-attachments/assets/b392dca6-3898-4847-a2c5-dfe43290922f>
+</div>
+
 In the next step, by rotating the sample along the x-axis (i.e., tilting the sample during measurements), we can capture these bands along different k-paths corresponding to various tilt angles. As an example, we introduce tilt angles ranging from -10 to 10 degrees in increments of 0.1 degrees.
 
 <div align="center">
