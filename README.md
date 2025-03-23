@@ -10,7 +10,7 @@ In an ARPES experiment, using experimental parameters and geometry (such as phot
 <img src=https://github.com/user-attachments/assets/15d23aa1-8d72-4f73-a392-270e3da334d0>
 </div>
 
-In the next step, by rotating the sample along the y-axis (i.e., tilting the sample during measurements), we can capture these bands along different k-paths corresponding to various tilt angles. As an example, we introduce tilt angles ranging from -10 to 10 degrees in increments of 0.1 degrees.
+In the next step, by rotating the sample along the x-axis (i.e., tilting the sample during measurements), we can capture these bands along different k-paths corresponding to various tilt angles. As an example, we introduce tilt angles ranging from -10 to 10 degrees in increments of 0.1 degrees.
 
 <div align="center">
 <img src=https://github.com/user-attachments/assets/d6c9cd29-b6e3-41f3-9ab1-581d974c0756>
@@ -22,7 +22,7 @@ All 22 bands for each tilt angle can be visualized in a 3D plot, providing a cle
 <img src=https://github.com/user-attachments/assets/c1514d49-d6a3-4ea1-9bfd-6f837bf7a057>
 </div>
 
-The tilt mentioned above corresponds to the y component. As a result, by slicing planes along the x-y direction, we can obtain isoenergetic surfaces, allowing us to resolve the ARPES image along the x and y components of reciprocal space:
+The tilt mentioned above corresponds to the y component (by rotating the k-path along the x-axis). As a result, by slicing planes along the x-y direction, we can obtain isoenergetic surfaces, allowing us to resolve the ARPES image along the x and y components of reciprocal space:
 
 <div align="center">
 <img src=https://github.com/user-attachments/assets/c479c9f5-6ae7-4177-8a90-6196c0bfdde9>
