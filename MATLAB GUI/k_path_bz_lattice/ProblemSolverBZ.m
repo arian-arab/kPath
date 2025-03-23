@@ -1,0 +1,9 @@
+function [sols]=ProblemSolverBZ(G,P)
+sol=P*inv(G);
+[a,b,c]=meshgrid(round(sol(1))-1:round(sol(1))+1,round(double(sol(2)))-1:round(sol(2))+1,round(sol(3))-1:round(sol(3))+1);
+sols(:,1)=reshape(a,[size(a,1)*size(a,2)*size(a,3),1]);
+sols(:,2)=reshape(b,[size(a,1)*size(a,2)*size(a,3),1]);
+sols(:,3)=reshape(c,[size(a,1)*size(a,2)*size(a,3),1]);
+Mat=sols*G-P;
+[~,I]=min(sqrt(Mat(:,1).^2+Mat(:,2).^2+Mat(:,3).^2));
+sols=sols(I,:)*G;
