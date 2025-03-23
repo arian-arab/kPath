@@ -10,9 +10,11 @@ In an ARPES experiment, using experimental parameters and geometry (such as phot
 <img src=https://github.com/user-attachments/assets/15d23aa1-8d72-4f73-a392-270e3da334d0>
 </div>
 
-In the next step by rotating the sample along the y-axis (i.e. taking measurements by tilting the sample) we can obtain these bands along different k-path corresponding to different tilt values. Here as an example we rotate the sample by introducing tilt angles from -10 to 10 degress in steps of 0.1 degress:
+In the next step, by rotating the sample along the y-axis (i.e., tilting the sample during measurements), we can capture these bands along different k-paths corresponding to various tilt angles. As an example, we introduce tilt angles ranging from -10 to 10 degrees in increments of 0.1 degrees.
 
-![tilt_video](https://github.com/user-attachments/assets/d6c9cd29-b6e3-41f3-9ab1-581d974c0756)
+<div align="center">
+<img src=https://github.com/user-attachments/assets/d6c9cd29-b6e3-41f3-9ab1-581d974c0756>
+</div>
 
 All these 22 bands for each of the tils can be plotted in a 3-dimensional plot to better visualize the 22 bands along different k-paths:
 
