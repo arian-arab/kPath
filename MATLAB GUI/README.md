@@ -3,6 +3,6 @@ To obtain the DFT calculations and necessary parameters for starting experiments
 Below is the GUI of the software, showing the initial parameters for the material TaAs:
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/b392dca6-3898-4847-a2c5-dfe43290922f" alt="Alt Text" width="460" height="600">
+<img src="https://github.com/user-attachments/assets/f91eed9c-27fc-472e-9a1d-9ccb37dadb3a" alt="Alt Text" width="460" height="600">
 </div>
 
